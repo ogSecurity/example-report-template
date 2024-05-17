@@ -32,7 +32,9 @@ The build runs twice, this is to work out the correct table of contents, then ag
 
 # Markdown
 
-Markdown is a little simpler than LaTeX but also less flexible. There's a number of plugins and tools that can be used to enhance what you're able to do with this format but it is limited. That said, you can create some pretty clean content with this and many tools are now supporting this format.
+Markdown is a little simpler than LaTeX but also less flexible. There's a number of plugins and tools that can be used to enhance what you're able to do with this format, but it is limited. That said, you can create some pretty clean content with this and many tools are now supporting this format. 
+
+Note: since this is processed in part by LaTeX you can inject some use thing LaTeX things in. In this example I've used `\newline` and `\pagebreak` to space out the content where required.
 
 ## Installation
 
