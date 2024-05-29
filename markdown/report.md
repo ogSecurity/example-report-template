@@ -72,8 +72,8 @@ Integer in neque pretium, vulputate augue id, dignissim diam. Duis ornare malesu
 
 ### Assessment Metadata
 
-|   |   |   |   |
-|---|---|---|---|
+|   |   |
+|---|---|
 | **Assessment Title**   | Product Assessment |
 | **Report ID**          | AC-001-01          |
 | **Proposal Reference** | AC-01              |
