@@ -4,7 +4,6 @@ Quite a number of people have asked what the report might look like based on our
 
 I must stress that the generated documents **do not look pretty**. This repo is purely to give you a starting point to work from, something to fill in while you do the course, or to play around with.
 
-
 # LaTeX
 
 LaTex is a powerful document creation tool that can be used to make nice looking reports in a repeatable and expected way. It's quite syntax heavy but ogSec has used it to make our own template, and it looks somewhat snazzy. What we're shared here however is very basic and structure focused.
@@ -56,3 +55,7 @@ $ ./build
 ```
 
 Report.pdf should be in the same folder.
+
+## DOCX & ODT
+
+These are similar examples of the markdown and LaTex versions.
