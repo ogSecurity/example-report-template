@@ -1,6 +1,6 @@
 # Basic Report Templates
 
-Quite a number of people have asked what the report might look like based on our report writing course [The Art of Report Writing](https://training.zeropointsecurity.co.uk/courses/the-art-of-report-writing). These examples do not go into the content specifics - that's covered in the course. What I've put together here is a report shell in a couple of formats for folks to use, either to take away and edit as you desire, or for you to leverage during the exercises within the course
+Quite a number of people have asked what the report might look like based on our report writing course [The Art of Report Writing](https://training.ogsec.co.uk/courses/29ea6f47-6c95-4e98-9420-59db8b5889bd). These examples do not go into the content specifics - that's covered in the course. What I've put together here is a report shell in a couple of formats for folks to use, either to take away and edit as you desire, or for you to leverage during the exercises within the course
 
 I must stress that the generated documents **do not look pretty**. This repo is purely to give you a starting point to work from, something to fill in while you do the course, or to play around with.
 
